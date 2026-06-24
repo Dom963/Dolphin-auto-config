@@ -1,6 +1,8 @@
 # Dolphin-auto-config
-little project made by me and gemini for ini files creation
+little project made by me and gemini for ini files creation to make it easier to do many custom configs for big collections of games
 
+# how to use 
+just download the zip, extract it and run the script dolphin-auto-config.py.
 you give the program the directories it needs to create the configuration inis and the roms directories and then it will prompt you how you want to set each game.
 
 currently it supports only:
