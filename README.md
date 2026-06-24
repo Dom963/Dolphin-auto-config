@@ -20,3 +20,4 @@ you can find a compatibility list and more informations about bt passthrough at 
 https://wiki.dolphin-emu.org/index.php?title=Bluetooth_Passthrough
 
 if you want to create forks of this code that work better you can feel free to use my code as reference or just scratch it entirely, i made this project only for myself because i wanted to be able to set configs for my games fast.
+i used pyton because it is the only language i know how to use and used gemini to give my code a gui since idk how to make one, i'm not really much of a programmer myself.
