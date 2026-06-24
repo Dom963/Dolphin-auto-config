@@ -1,5 +1,6 @@
 # Dolphin-auto-config
-little project made by me and gemini for ini files creation to make it easier to do many custom configs for big collections of games
+little project made by me and gemini for ini files creation to make it easier to do many custom configs for big collections of games.
+it's built for wii presets but i'm not sure if it can work also for gc games
 
 # how to use 
 just download the zip, extract it and run the script dolphin-auto-config.py.
