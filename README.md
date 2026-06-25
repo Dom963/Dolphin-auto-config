@@ -27,6 +27,3 @@ if you want to create forks of this code that work better you can feel free to u
 
 i used pyton because it is the only language i know how to use and used gemini to give my code a gui since idk how to make one, i'm not really much of a programmer myself.
 
-# important if you're having issues
-since i don't know how to make a gui as of rn the optimal way to run it is putting full screen and if you need to scroll down dragging the side bar down.
-so if you see options or games missing make sure you maximize the window and use the sidebar to navigate
